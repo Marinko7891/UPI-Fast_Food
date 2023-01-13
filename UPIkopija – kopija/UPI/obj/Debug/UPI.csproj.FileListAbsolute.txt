@@ -1,0 +1,82 @@
+C:\Users\Korisnik\Desktop\UPI\UPI\bin\Debug\UPI.exe.config
+C:\Users\Korisnik\Desktop\UPI\UPI\bin\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPI\UPI\bin\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Form1.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Registracija.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Pocetna1.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.MCDonalds.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.KFC.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Burger_King.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Bili_Pivac.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Popaj.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.Medeni.resources
+C:\Users\Korisnik\Desktop\UPI\UPI\obj\Debug\UPI.MojProfil.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\bin\Debug\UPI.exe.config
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\bin\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\bin\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Bili_Pivac.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Burger_King.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Form1.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.KFC.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.MCDonalds.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Medeni.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.MojProfil.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Pocetna1.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Popaj.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.Registracija.resources
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPI – kopija\UPI\obj\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\bin\Debug\UPI.exe.config
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\bin\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\bin\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Bili_Pivac.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Burger_King.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Form1.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.KFC.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.MCDonalds.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Medeni.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.MojProfil.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Narudzbe.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Pocetna1.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Popaj.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Registracija.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.Admin.resources
+C:\Users\Korisnik\Desktop\UPIkopija\UPI\obj\Debug\UPI.AdminNarudzbe.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\bin\Debug\UPI.exe.config
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\bin\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\bin\Debug\UPI.pdb
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Admin.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.AdminNarudzbe.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Bili_Pivac.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Burger_King.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Form1.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.KFC.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.MCDonalds.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Medeni.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.MojProfil.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Narudzbe.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Pocetna1.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Popaj.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.Registracija.resources
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.exe
+C:\Users\Korisnik\Desktop\UPIkopija – kopija\UPI\obj\Debug\UPI.pdb

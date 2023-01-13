@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3A7EDD2-D1FA-4497-84C7-9AB920AF7E08}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UPI</RootNamespace>
+    <AssemblyName>UPI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNarudzbe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNarudzbe.Designer.cs">
+      <DependentUpon>AdminNarudzbe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bili_Pivac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bili_Pivac.Designer.cs">
+      <DependentUpon>Bili_Pivac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Burger_King.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Burger_King.Designer.cs">
+      <DependentUpon>Burger_King.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KFC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KFC.Designer.cs">
+      <DependentUpon>KFC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCDonalds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCDonalds.Designer.cs">
+      <DependentUpon>MCDonalds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medeni.Designer.cs">
+      <DependentUpon>Medeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MojProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MojProfil.Designer.cs">
+      <DependentUpon>MojProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe.Designer.cs">
+      <DependentUpon>Narudzbe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pocetna.Designer.cs">
+      <DependentUpon>pocetna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pocetna1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pocetna1.Designer.cs">
+      <DependentUpon>Pocetna1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Popaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Popaj.Designer.cs">
+      <DependentUpon>Popaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registracija.Designer.cs">
+      <DependentUpon>Registracija.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminNarudzbe.resx">
+      <DependentUpon>AdminNarudzbe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bili_Pivac.resx">
+      <DependentUpon>Bili_Pivac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Burger_King.resx">
+      <DependentUpon>Burger_King.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KFC.resx">
+      <DependentUpon>KFC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCDonalds.resx">
+      <DependentUpon>MCDonalds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medeni.resx">
+      <DependentUpon>Medeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MojProfil.resx">
+      <DependentUpon>MojProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe.resx">
+      <DependentUpon>Narudzbe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pocetna1.resx">
+      <DependentUpon>Pocetna1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popaj.resx">
+      <DependentUpon>Popaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registracija.resx">
+      <DependentUpon>Registracija.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1972.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19721.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radic-dostavljac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pocetna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\big_tasty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\McWrap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChickenStrips.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToastSirSla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mek.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KFC11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KFC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kentucky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\klasik_kos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grander_burger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Qurrito_box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CheeseBox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stri_deluxe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burger_king.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burger_king1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mon_bur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WinBur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vegan_sli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avo_veg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fre_bur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bili_pivac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bili_pivac1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TOR_PIL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cevap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pohan_punjana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salaPil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\POPaj1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pizzamij.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzaplo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senPec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senPrs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\povrce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mijesano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medeni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzaveg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendSirTij.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\torTun.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
